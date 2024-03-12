@@ -3,6 +3,8 @@ body {
     font-family: 'Playfair Display', serif;
     font-style: italic;
     font-weight: 400;
+    width: 95%;
+    margin: 0 auto;
 }
 
 .color-fondo-nav {
@@ -12,3 +14,8 @@ body {
 .color-fondo-elementos{
     background-color: #fef4d9;
   }
+
+.fondo_img{
+    background-image: url('imagenes/miko_principal.png');
+    background-size: cover;
+}
