@@ -1,0 +1,14 @@
+
+body {
+    font-family: 'Playfair Display', serif;
+    font-style: italic;
+    font-weight: 400;
+}
+
+.color-fondo-nav {
+    background-color: #fffbf0; /* Color de fondo personalizado */
+  }
+
+.color-fondo-elementos{
+    background-color: #fef4d9;
+  }
